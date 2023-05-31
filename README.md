@@ -10,7 +10,7 @@ Easily add Vipps branding to your store, by adding Vipps Badges on product-pages
 
 The companion app can be used in combination with [Vipps Checkout app for Shopify](https://developer.vippsmobilepay.com/docs/plugins-ext/checkout-shopify/).
 
-![Vipps badges](images/companion-badges.png)
-![Vipps receipts](images/receipts.png)
+![Vipps badges](docs/images/companion-badges.png)
+![Vipps receipts](docs/images/receipts.png)
 
 
