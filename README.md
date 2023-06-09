@@ -1,6 +1,6 @@
 <!-- START_METADATA
 ---
-title: Companion app for Shopify
+title: Vipps Companion app for Shopify
 sidebar_position: 1
 hide_table_of_contents: true
 pagination_next: null
@@ -8,7 +8,9 @@ pagination_prev: null
 ---
 END_METADATA -->
 
-# Companion app for Shopify
+# Vipps Companion app for Shopify
+
+*This plugin is built and maintained by [Crude](https://crude.no/).*
 
 <!-- START_COMMENT -->
 💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/vipps-plugins/). 💥
