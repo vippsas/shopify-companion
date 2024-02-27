@@ -2,6 +2,7 @@
 ---
 title: Vipps Companion app for Shopify
 sidebar_position: 1
+description: Add Vipps branding to your Shopify store.
 pagination_next: null
 pagination_prev: null
 ---
@@ -24,7 +25,7 @@ The plugin is available from the [Shopify app store](https://apps.shopify.com/vi
 
 **Please note:** Add Vipps branding to your store, and sync order info with the Vipps app.
 
-Easily add Vipps branding to your store, by adding Vipps badges on product-pages with drag and drop app-blocks, together with adding Vipps icon in the footer. This will help you build trust in your store. Many merchants have requested this feature, and now it's finally here! *Vipps Companion* also supports synchronizing relevant order data with the Vipps app, like product image, price details (shipping, tax, total price) which makes it a lot more informative for your customers using the app.
+Easily add Vipps branding to your store by adding Vipps badges on product pages with drag-and-drop app blocks, together with adding the Vipps icon in the footer. This will help you build trust in your store. Many merchants have requested this feature, and now it's finally here! *Vipps Companion* also supports synchronizing relevant order data with the Vipps app, like product image, price details (shipping, tax, total price) which makes it a lot more informative for your customers using the app.
 
 * Easily add Vipps badges using Theme Editor
 * Easily add Vipps icon in footer using Theme Editor
