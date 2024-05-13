@@ -1,20 +1,22 @@
 <!-- START_METADATA
 ---
-title: Vipps Companion app for Shopify
+title: Vipps/MobilePay Companion app for Shopify
 sidebar_position: 1
-description: Add Vipps branding to your Shopify store.
+description: Add Vipps/MobilePay branding to your Shopify store.
 pagination_next: null
 pagination_prev: null
 ---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 END_METADATA -->
 
-# Vipps Companion app for Shopify
+# Companion app for Shopify
 
 ![Support and development by Crude ](./docs/images/crude.svg#gh-light-mode-only)![Support and development by Crude](./docs/images/crude_dark.svg#gh-dark-mode-only)
 
-![Vipps](./docs/images/vipps.png) *Available for Vipps.*
-
-![MobilePay](./docs/images/mp.png) *Available for MobilePay in Finland and Denmark in Q2 2024.*
+![Vipps](./docs/images/vipps.png) ![MobilePay](./docs/images/mp.png) *Available for Vipps and MobilePay.*
 
 *This plugin is built and maintained by [Crude](https://crude.no/).
 The plugin is available from the [Shopify app store](https://apps.shopify.com/vipps-companion?locale=nb).*
@@ -23,16 +25,35 @@ The plugin is available from the [Shopify app store](https://apps.shopify.com/vi
 💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify-companion/). 💥
 <!-- END_COMMENT -->
 
-**Please note:** Add Vipps branding to your store, and sync order info with the Vipps app.
+Easily add Vipps and MobilePay branding to your store. Add badges on the product pages with drag-and-drop app blocks and add icons in the footer.
+This will help you build trust in your store. Many merchants have requested this feature, and now it's finally here.
 
-Easily add Vipps branding to your store by adding Vipps badges on product pages with drag-and-drop app blocks, together with adding the Vipps icon in the footer. This will help you build trust in your store. Many merchants have requested this feature, and now it's finally here! *Vipps Companion* also supports synchronizing relevant order data with the Vipps app, like product image, price details (shipping, tax, total price) which makes it a lot more informative for your customers using the app.
+*Companion app for Shopify* also supports synchronizing relevant order data with the Vipps or MobilePay app
+(e.g., product image, price details, shipping, tax, total price).
+This gives your customers a lot more information within the app.
 
-* Easily add Vipps badges using Theme Editor
-* Easily add Vipps icon in footer using Theme Editor
-* Sync order data with the Vipps app
+The companion app can be used in combination with both the
+[Checkout app for Shopify](https://developer.vippsmobilepay.com/docs/plugins-ext/checkout-shopify/)
+or [Payment app for Shopify](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/).
 
-The companion app can only be used in combination with [Checkout app for Shopify](https://developer.vippsmobilepay.com/docs/plugins-ext/checkout-shopify/).
+
+<Tabs className="custom-tabs"
+defaultValue="vipps"
+groupId="brand"
+values={[
+{label: 'Vipps', value: 'vipps'},
+{label: 'MobilePay', value: 'mobilepay'},
+]}>
+<TabItem value="vipps">
 
 ![Vipps badges](docs/images/companion-badges.png)
 
 ![Vipps receipts](docs/images/receipt.png)
+
+</TabItem>
+<TabItem value="mobilepay">
+
+![MobilePay badge](docs/images/mobilepay-badge.png)
+
+</TabItem>
+</Tabs>
