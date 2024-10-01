@@ -19,7 +19,8 @@ END_METADATA -->
 ![Vipps](./docs/images/vipps.png) ![MobilePay](./docs/images/mp.png) *Available for Vipps and MobilePay.*
 
 *This plugin is built and maintained by [Crude](https://crude.no/).
-The plugin is available from the [Shopify app store](https://apps.shopify.com/vipps-companion?locale=nb).*
+The plugin is available from the [Shopify app store](https://apps.shopify.com/vipps-companion?locale=nb).
+For support, contact [Vipps/MobilePay for Shopify support](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3).*
 
 <!-- START_COMMENT -->
 💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify-companion/). 💥
@@ -57,3 +58,8 @@ values={[
 
 </TabItem>
 </Tabs>
+
+## Support
+
+For issues with the plugin,
+contact [Vipps/MobilePay for Shopify support](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3).
